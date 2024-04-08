@@ -17,5 +17,3 @@ def merge_pdfs(directory, output_filename):
 
     print(f'Merged PDF saved as {output_filename}')
 
-merge_pdfs('~/Desktop/pdf_test', 'all_lecture.pdf')
-
